@@ -1,11 +1,26 @@
 # hide password!
+# sorry these can't be committed as they stand.
 isi_rip.logined.sh
+test_*.py
 
 # backups
 *~
 
+# hide our data files
+# (these are paywalled!!)
+*.ciw
+*.isi
+*.txt
+*.csv
+
+# hide processed output
+# derived from data files
+*.graphml
+*.gephi
 
 
+
+#-------------------------------------------------------
 # Github Python Defaults:
 
 # Byte-compiled / optimized / DLL files
